@@ -8,7 +8,7 @@
 - 🔧 Actuellement en **service civique** à l’Office des Retraités de Brest, où je gère la communication numérique et le site web.
 - 🌐 En recherche d'une **alternance en développement web**.
 - 🖥️ J’utilise principalement **HTML, CSS, JavaScript**, un peu de **PHP** et **Python**.
-- 💻 Fan de **Debian** et bidouilleur de serveurs (j’ai même monté un serveur CS:GO en mode "retake" sur un VPS 🧠🔥).
+- 💻 Fan de **Debian** et bidouilleur de serveurs (j’ai notament monté un serveur CS:GO en mode "retake" sur un VPS).
 
 ## 🧠 Ce que j’ai appris
 
