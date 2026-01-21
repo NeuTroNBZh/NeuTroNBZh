@@ -1,14 +1,14 @@
 # 👋 Salut, moi c’est Louis Cerclé
 
-🎓 Après un parcours riche entre histoire, informatique et service, je me spécialise aujourd’hui dans le **développement web**.  
+🎓 Après un parcours riche entre histoire, informatique et service, je me spécialise aujourd’hui dans le **développement**.  
 💡 Curieux, autodidacte et passionné par les **nouvelles technologies**, j’aime apprendre vite et bien, surtout quand il s’agit de **code, de réseaux et de Linux** 🐧.
 
 ## 🛠️ Ce que je fais
 
-- 🔧 Actuellement en **service civique** à l’Office des Retraités de Brest, où je gère la communication numérique et le site web.
-- 🌐 En recherche d'une **alternance en développement web**.
+- 🔧 Actuellement en **BTS SIO** dnas le groupe Estran, où j’apprends le développement et les réseaux.
+- 🌐 En recherche d'un **stage en développement**.
 - 🖥️ J’utilise principalement **HTML, CSS, JavaScript**, un peu de **PHP** et **Python**.
-- 💻 Fan de **Debian** et bidouilleur de serveurs (j’ai notament monté un serveur CS:GO en mode "retake" sur un VPS).
+- 💻 **Debian** et bidouilleur de serveurs type Proxmox (j’ai notament monté des serveurs CS:GO et CS2 en mode "retake" sur un VPS).
 
 ## 🧠 Ce que j’ai appris
 
