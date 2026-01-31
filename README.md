@@ -1,28 +1,25 @@
 # 👋 Salut, moi c’est Louis Cerclé
 
-🎓 Après un parcours riche entre histoire, informatique et service, je me spécialise aujourd’hui dans le **développement**.  
-💡 Curieux, autodidacte et passionné par les **nouvelles technologies**, j’aime apprendre vite et bien, surtout quand il s’agit de **code, de réseaux et de Linux** 🐧.
+### 🎓 De l'Histoire aux Lignes de Code
+Après un parcours riche entre les récits du passé et l'ingénierie, je me spécialise aujourd’hui dans le **développement logiciel et les infrastructures**. Mon bagage en Histoire m'a donné la rigueur et le goût de l'analyse, que j'applique désormais au **code, aux réseaux et à l'univers Linux** 🐧.
 
-## 🛠️ Ce que je fais
+## 🛠️ Stack & Outils
 
-- 🔧 Actuellement en **BTS SIO** dnas le groupe Estran, où j’apprends le développement et les réseaux.
-- 🌐 En recherche d'un **stage en développement**.
-- 🖥️ J’utilise principalement **HTML, CSS, JavaScript**, un peu de **PHP** et **Python**.
-- 💻 **Debian** et bidouilleur de serveurs type Proxmox (j’ai notament monté des serveurs CS:GO et CS2 en mode "retake" sur un VPS).
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-## 🧠 Ce que j’ai appris
+- 🔧 **BTS SIO (Groupe Estran)** : Spécialisation développement et réseaux.
+- 🐧 **SysAdmin Spirit** : Adepte de Debian, Proxmox et de l'auto-hébergement (serveurs de jeux, VPS).
+- 🔍 **En recherche de stage** : Prêt à apporter ma polyvalence à une équipe technique.
 
-- 📚 Formation prépa ingénieur à l’ISEN Brest (développement web, bases réseaux, Linux).
-- 📜 Deux ans d’études en histoire (eh oui, j’ai le goût des récits, même numériques !).
-- 🧪 Certifications en ligne pour continuer à me former (LinkedIn Learning, etc.).
+## 🌟 Projet Phare : [Prix du Cœur](https://github.com/NeuTroNBZh/prix-du-coeur)
+> Une application de gestion financière intelligente (IA Mistral) et sécurisée pour couples. C'est le projet qui résume le mieux mon approche : **Utilité, Sécurité et Modernité.**
 
 ## 📫 Me contacter
 
-- 📧 louis.cercle35@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/louis-cerclé-cheminel/)
-- 🐙 Tu peux aussi simplement me suivre ici sur GitHub !
+[LinkedIn](https://www.linkedin.com/in/louis-cerclé-cheminel/) | louis.cercle35@gmail.com
 
 ---
 
 > "Coder, c’est comme raconter une histoire… sauf qu’il ne faut pas faire de fautes !" 😉
-
