@@ -1,6 +1,6 @@
 <!-- Bannière animée ou statique -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Louis%20Cerclé-Cheminel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20BTS%20SIO%20SLAM&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Louis%20Cercl%C3%A9-Cheminel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20BTS%20SIO%20SLAM&descAlignY=55&descSize=18" alt="header" />
 </div>
 
 <!-- Badges sociaux -->
@@ -25,6 +25,18 @@
 - 🐧 Passionné par Linux et l'auto-hébergement (Proxmox, Docker)
 - 🎮 Développeur de plugins pour CS2 (C#) à mes heures perdues
 - 📍 Basé à **Brest, France** — véhiculé
+
+---
+
+## 🎯 Me recruter
+
+<div align="center">
+
+**📋 [Voir mon CV interactif complet](https://github.com/NeuTroNBZh/hire-me)**
+
+[![Hire Me](https://img.shields.io/badge/🔗_Consulter_mon_profil_de_stage-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeuTroNBZh/hire-me)
+
+</div>
 
 ---
 
