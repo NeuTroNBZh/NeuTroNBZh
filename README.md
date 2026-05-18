@@ -20,7 +20,7 @@
 
 Étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métiers), je combine rigueur intellectuelle et créativité technique pour concevoir des applications web modernes et performantes.
 
-- 🔭 Actuellement en recherche de **stage du 18 mai au 19 juin 2026**
+- 🔭 Actuellement en **stage du 18 mai au 19 juin 2026**
 - 🌱 J'apprends constamment : React, Node.js, Cybersécurité, DevOps
 - 🐧 Passionné par Linux et l'auto-hébergement (Proxmox, Docker)
 - 🎮 Développeur de plugins pour CS2 (C#) à mes heures perdues
