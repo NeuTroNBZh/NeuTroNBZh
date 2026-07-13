@@ -69,30 +69,19 @@
 
 ---
 
-## 🏆 Trophées
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NeuTroNBZh&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ⭐ Projets Phares
 
 <div align="center">
 
-| Projet | Description | Tech Stack |
-|--------|-------------|------------|
-| 💖 **[Prix du Cœur](https://github.com/NeuTroNBZh/prix-du-coeur)** | Gestionnaire de dépenses partagées — IA Mistral, import CSV/PDF, 2FA | React, Node.js, Mistral AI |
-| 🔌 **[BreakerAndOpenDoor](https://github.com/NeuTroNBZh/breakerandopendoor)** | Plugin CS2 (3⭐) — automatisation de portes et éléments de map | C#, CounterStrikeSharp |
-| 🎮 **[CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)** | Plugin retake V3 — menu armes, InstaDefuse, buy flow natif | C#, CounterStrikeSharp |
-| 🎯 **[CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)** | Éditeur de spawns pour CS2-RETAKE — visualisation et édition in-game | C#, CounterStrikeSharp |
-| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin stats CS2 — persistance MySQL, classement joueurs, releases packagées | C#, MySQL |
-| 🐢 **[AntiSlow](https://github.com/NeuTroNBZh/AntiSlow)** | Plugin CS2 anti-ralentissement — Localizer multilingue, prêt à déployer | C#, CounterStrikeSharp |
-| 🎁 **[Liste de Noël](https://github.com/NeuTroNBZh/Liste_De_Noel)** | Application de liste de souhaits — authentification 2FA, temps réel | React, Node.js, MongoDB |
-| 🔄 **[gitlab-sync](https://github.com/NeuTroNBZh/gitlab-sync)** | Synchronisation d'activité GitLab → GitHub via GitHub Actions | GitHub Actions, Bash |
+| Projet | Description | Tech Stack | Stats |
+|--------|-------------|------------|-------|
+| 💖 **[Prix du Cœur](https://github.com/NeuTroNBZh/prix-du-coeur)** | Gestionnaire de dépenses partagées — IA Mistral, import CSV/PDF, 2FA | React, Node.js, Mistral AI | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/prix-du-coeur?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/prix-du-coeur?style=flat-square&labelColor=343b58&color=764ba2) |
+| 🔌 **[BreakerAndOpenDoor](https://github.com/NeuTroNBZh/breakerandopendoor)** | Plugin CS2 — automatisation de portes et éléments de map | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/breakerandopendoor?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/breakerandopendoor?style=flat-square&labelColor=343b58&color=764ba2) |
+| 🎮 **[CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)** | Plugin retake V3 — menu armes, InstaDefuse, buy flow natif | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RETAKE?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-RETAKE?style=flat-square&labelColor=343b58&color=764ba2) |
+| 🎯 **[CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)** | Éditeur de spawns pour CS2-RETAKE — visualisation et édition in-game | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-SpawnEditor?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-SpawnEditor?style=flat-square&labelColor=343b58&color=764ba2) |
+| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin stats CS2 — persistance MySQL, classement joueurs, releases packagées | C#, MySQL | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-STATPLAY?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-STATPLAY?style=flat-square&labelColor=343b58&color=764ba2) |
+| 🐢 **[AntiSlow](https://github.com/NeuTroNBZh/AntiSlow)** | Plugin CS2 anti-ralentissement — Localizer multilingue, prêt à déployer | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/AntiSlow?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/AntiSlow?style=flat-square&labelColor=343b58&color=764ba2) |
+| 🎁 **[Liste de Noël](https://github.com/NeuTroNBZh/Liste_De_Noel)** | Application de liste de souhaits — authentification 2FA, temps réel | React, Node.js, MongoDB | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/Liste_De_Noel?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/Liste_De_Noel?style=flat-square&labelColor=343b58&color=764ba2) |
 
 </div>
 
@@ -101,12 +90,11 @@
 ## 📊 Stats GitHub
 
 <div align="center">
-  
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=NeuTroNBZh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuTroNBZh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeuTroNBZh&theme=tokyonight&hide_border=true)
+
+  ![Stars](https://img.shields.io/github/stars/NeuTroNBZh?style=for-the-badge&logo=github&label=%C3%89toiles%20totales&labelColor=343b58&color=667eea)
+  ![Followers](https://img.shields.io/github/followers/NeuTroNBZh?style=for-the-badge&logo=github&label=Followers&labelColor=343b58&color=764ba2)
+
+  ![Streak](https://streak-stats.demolab.com/?user=NeuTroNBZh&theme=tokyonight&hide_border=true&locale=fr)
 
 </div>
 
