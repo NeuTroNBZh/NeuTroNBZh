@@ -22,7 +22,8 @@
 
 Étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métiers), je combine rigueur intellectuelle et créativité technique pour concevoir des applications web modernes et performantes.
 
-- 🔭 Actuellement en **stage du 18 mai au 19 juin 2026**
+- 🎓 **2e année de BTS SIO SLAM** à la rentrée 2026
+- 💼 Actuellement en **job d'été chez Shop Application** (développement web)
 - 🌱 J'apprends constamment : React, Node.js, Cybersécurité, DevOps
 - 🐧 Passionné par Linux et l'auto-hébergement (Proxmox, Docker)
 - 🎮 Développeur de plugins pour CS2 (C#) à mes heures perdues
@@ -36,7 +37,7 @@
 
 **📋 [Voir mon CV interactif complet](https://github.com/NeuTroNBZh/hire-me)**
 
-[![Hire Me](https://img.shields.io/badge/🔗_Consulter_mon_profil_de_stage-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeuTroNBZh/hire-me)
+[![Hire Me](https://img.shields.io/badge/🔗_Consulter_mon_CV_interactif-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeuTroNBZh/hire-me)
 
 </div>
 
@@ -86,10 +87,12 @@
 |--------|-------------|------------|
 | 💖 **[Prix du Cœur](https://github.com/NeuTroNBZh/prix-du-coeur)** | Gestionnaire de dépenses partagées — IA Mistral, import CSV/PDF, 2FA | React, Node.js, Mistral AI |
 | 🔌 **[BreakerAndOpenDoor](https://github.com/NeuTroNBZh/breakerandopendoor)** | Plugin CS2 (3⭐) — automatisation de portes et éléments de map | C#, CounterStrikeSharp |
-| 🎮 **[CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)** | Plugin retake V3 — menu armes, restriction AWP, InstaDefuse | C#, CounterStrikeSharp |
-| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin stats CS2 — persistance MySQL, classement joueurs | C#, MySQL |
+| 🎮 **[CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)** | Plugin retake V3 — menu armes, InstaDefuse, buy flow natif | C#, CounterStrikeSharp |
+| 🎯 **[CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)** | Éditeur de spawns pour CS2-RETAKE — visualisation et édition in-game | C#, CounterStrikeSharp |
+| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin stats CS2 — persistance MySQL, classement joueurs, releases packagées | C#, MySQL |
+| 🐢 **[AntiSlow](https://github.com/NeuTroNBZh/AntiSlow)** | Plugin CS2 anti-ralentissement — Localizer multilingue, prêt à déployer | C#, CounterStrikeSharp |
 | 🎁 **[Liste de Noël](https://github.com/NeuTroNBZh/Liste_De_Noel)** | Application de liste de souhaits — authentification 2FA, temps réel | React, Node.js, MongoDB |
-| 🌐 **[Agora 2.0](https://github.com/NeuTroNBZh/Agora2.0)** | Site vitrine serveur CS2 — intégration Discord, skin changer | PHP, MySQL |
+| 🔄 **[gitlab-sync](https://github.com/NeuTroNBZh/gitlab-sync)** | Synchronisation d'activité GitLab → GitHub via GitHub Actions | GitHub Actions, Bash |
 
 </div>
 
@@ -129,9 +132,10 @@
 
 ---
 
-## 🎯 Objectifs 2026
+## 🎯 Objectifs 2026-2027
 
-- [ ] Obtenir mon BTS SIO avec mention
+- [x] Valider ma 1re année de BTS SIO SLAM
+- [ ] Obtenir mon BTS SIO avec mention (2027)
 - [ ] Contribuer à un projet open-source majeur
 - [ ] Développer une application mobile (React Native)
 - [ ] Passer la certification AWS Cloud Practitioner
