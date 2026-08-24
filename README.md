@@ -18,8 +18,6 @@
 
 ## 🚀 À propos de moi
 
-> **Historien de formation, développeur par passion.**
-
 Étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métiers), je combine rigueur intellectuelle et créativité technique pour concevoir des applications web modernes et performantes.
 
 - 🎓 **2e année de BTS SIO SLAM** à la rentrée 2026
