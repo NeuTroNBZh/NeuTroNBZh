@@ -21,7 +21,6 @@
 Étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métiers), je combine rigueur intellectuelle et créativité technique pour concevoir des applications web modernes et performantes.
 
 - 🎓 **2e année de BTS SIO SLAM** (2026-2027)
-- 💼 Actuellement en **job d'été chez Shop Application** (développement web)
 - 🌱 J'apprends constamment : React, Node.js, Cybersécurité, DevOps
 - 🐧 Passionné par Linux et l'auto-hébergement (Proxmox, Docker)
 - 🎮 Développeur de plugins pour CS2 (C#) à mes heures perdues
