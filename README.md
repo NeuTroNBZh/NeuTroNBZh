@@ -20,7 +20,7 @@
 
 Étudiant en **BTS SIO SLAM** (Solutions Logicielles et Applications Métiers), je combine rigueur intellectuelle et créativité technique pour concevoir des applications web modernes et performantes.
 
-- 🎓 **2e année de BTS SIO SLAM** à la rentrée 2026
+- 🎓 **2e année de BTS SIO SLAM** (2026-2027)
 - 💼 Actuellement en **job d'été chez Shop Application** (développement web)
 - 🌱 J'apprends constamment : React, Node.js, Cybersécurité, DevOps
 - 🐧 Passionné par Linux et l'auto-hébergement (Proxmox, Docker)
@@ -73,17 +73,14 @@
 
 | Projet | Description | Tech Stack | Stats |
 |--------|-------------|------------|-------|
-| 💖 **[Prix du Cœur](https://github.com/NeuTroNBZh/prix-du-coeur)** | Gestionnaire de dépenses partagées — IA Mistral, import CSV/PDF, 2FA | React, Node.js, Mistral AI | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/prix-du-coeur?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/prix-du-coeur?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🎮 **[CS2-RetakeV4](https://github.com/NeuTroNBZh/CS2-RetakeV4)** | Mode Retake complet pour CS2 — équipes, spawns, armes mémorisées, HUD, vote de map, nettoyage de map, outils admin, API publique, 1 000+ tests | C#, .NET 10, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RetakeV4?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-RetakeV4?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🌐 **[CS2-RetakeV4-Panel](https://github.com/NeuTroNBZh/CS2-RetakeV4-Panel)** | Panel web de RetakeV4 — connexion Steam, choix des armes à la souris, Docker | TypeScript, MySQL, Docker | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RetakeV4-Panel?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-RetakeV4-Panel?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🧩 **[CS2-Retake-Suite](https://github.com/NeuTroNBZh/CS2-Retake-Suite)** | Vue d'ensemble de ma suite de plugins CS2 compatibles entre eux | — | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-Retake-Suite?style=flat-square&labelColor=343b58&color=667eea) |
-| 🗂️ **[CS2-RETAKE](https://github.com/NeuTroNBZh/CS2-RETAKE)** | Plugin retake V3 (remplacé par RetakeV4) — menu armes, InstaDefuse, buy flow natif | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RETAKE?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-RETAKE?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🎯 **[CS2-SpawnEditor](https://github.com/NeuTroNBZh/CS2-SpawnEditor)** | Éditeur de spawns pour CS2-RETAKE — visualisation et édition in-game | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-SpawnEditor?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-SpawnEditor?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🔌 **[CS2-BreakerAndOpenDoor](https://github.com/NeuTroNBZh/CS2-BreakerAndOpenDoor)** | Plugin CS2 — portes et éléments de map (intégré à RetakeV4 sous le nom MapCleanup) | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-BreakerAndOpenDoor?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-BreakerAndOpenDoor?style=flat-square&labelColor=343b58&color=764ba2) |
-| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin stats CS2 — persistance MySQL, classement joueurs, releases packagées | C#, MySQL | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-STATPLAY?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-STATPLAY?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🐢 **[CS2-AntiSlow](https://github.com/NeuTroNBZh/CS2-AntiSlow)** | Plugin CS2 anti-ralentissement — Localizer multilingue, prêt à déployer | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-AntiSlow?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-AntiSlow?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🛡️ **[CS2-AdminTools](https://github.com/NeuTroNBZh/CS2-AdminTools)** | Kit admin pour serveurs privés — wallhack, invisibilité, god mode | C#, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-AdminTools?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/CS2-AdminTools?style=flat-square&labelColor=343b58&color=764ba2) |
-| 🎁 **[Liste de Noël](https://github.com/NeuTroNBZh/Liste_De_Noel)** | Application de liste de souhaits — authentification 2FA, temps réel | React, Node.js, MongoDB | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/Liste_De_Noel?style=flat-square&labelColor=343b58&color=667eea) ![Forks](https://img.shields.io/github/forks/NeuTroNBZh/Liste_De_Noel?style=flat-square&labelColor=343b58&color=764ba2) |
+| 💖 **Trokad** *(privé)* | Gestionnaire de dépenses partagées pour couples — import CSV/PDF, catégorisation IA Mistral | React, Node.js, Mistral AI | — |
+| 🏥 **[GSB-CR](https://github.com/NeuTroNBZh/ProjetAPS3GSB)** | Application de comptes-rendus de visite — projet BTS SIO (AP) | VB.NET, Oracle 19c | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/ProjetAPS3GSB?style=flat-square&labelColor=343b58&color=667eea) |
+| 🎮 **[CS2-RetakeV4](https://github.com/NeuTroNBZh/CS2-RetakeV4)** | Mode Retake complet pour CS2 — équipes, spawns, armes mémorisées, HUD, vote de map, nettoyage de map, outils admin, API publique, 1 000+ tests | C#, .NET 10, CounterStrikeSharp | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RetakeV4?style=flat-square&labelColor=343b58&color=667eea) |
+| 🌐 **[CS2-RetakeV4-Panel](https://github.com/NeuTroNBZh/CS2-RetakeV4-Panel)** | Panel web de RetakeV4 — connexion Steam, choix des armes, Docker | TypeScript, MySQL, Docker | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-RetakeV4-Panel?style=flat-square&labelColor=343b58&color=667eea) |
+| 🧩 **[CS2-Retake-Suite](https://github.com/NeuTroNBZh/CS2-Retake-Suite)** | Vue d'ensemble de ma suite de plugins CS2 (RetakeV4, Panel, STATPLAY, AntiSlow, Antibait, AdminTools) | — | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-Retake-Suite?style=flat-square&labelColor=343b58&color=667eea) |
+| 📊 **[CS2-STATPLAY](https://github.com/NeuTroNBZh/CS2-STATPLAY)** | Plugin de stats CS2 — persistance MySQL, classement des joueurs | C#, MySQL | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/CS2-STATPLAY?style=flat-square&labelColor=343b58&color=667eea) |
+| 🎁 **[Liste de Noël](https://github.com/NeuTroNBZh/Liste_De_Noel)** | Application de liste de souhaits — panel admin, authentification 2FA par email | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/Liste_De_Noel?style=flat-square&labelColor=343b58&color=667eea) |
+| 🏫 **[Zatovo](https://github.com/NeuTroNBZh/Zatovo)** | Site vitrine d'association — panel admin actualités/galerie | PHP, MySQL | ![Stars](https://img.shields.io/github/stars/NeuTroNBZh/Zatovo?style=flat-square&labelColor=343b58&color=667eea) |
 
 </div>
 
@@ -138,7 +135,6 @@
 Tu as un projet intéressant ? Tu cherches un développeur motivé ?
 
 📧 **louis.cercle35@gmail.com**  
-📱 **07.83.44.02.74**
 
 <div align="center">
   
